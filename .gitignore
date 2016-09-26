@@ -1,1 +1,5 @@
 *.out
+
+# started working on the windows machine, too
+*.obj
+*.exe
