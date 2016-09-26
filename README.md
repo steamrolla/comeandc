@@ -1,7 +1,7 @@
 # comeandc
 ##solutions to the exercises in the infamous "The C Programming Language"
 
-I haveve very little experience with C. I've only played with it, and, it's been around 5 years.
+I have very little experience with C. I've only played with it, and, it's been around 5 years.
 
 I'm doing this to:
   1. Learn C the simple way (obviously starting with the king of the hill: KnR).
